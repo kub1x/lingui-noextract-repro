@@ -1,0 +1,9 @@
+{
+  "locales": [ "en", "cs" ],
+  "catalogs": [{
+     "path": "assets/locales/{locale}/messages",
+     "include": [ "js", "App.js" ],
+  }],
+  "format": "po",
+  "sourceLocale": "en"
+}
